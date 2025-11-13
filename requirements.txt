@@ -1,0 +1,24 @@
+# 基础数据处理库
+numpy
+pandas
+scipy
+
+# 可视化库
+matplotlib
+seaborn
+
+# 统计与建模库
+statsmodels
+scikit-learn  # 包含Lasso、随机森林、SVM等模型及预处理工具
+
+# 高级机器学习库
+xgboost
+lightgbm
+missforest  # 用于缺失值填充
+shap  # 模型解释
+
+# 表格汇总库
+tableone
+
+# 网页交互框架
+streamlit
